@@ -24,12 +24,10 @@ ul {
   }
 }
 
-.footer-section {
+.footer {
   background-color: $background7;
   position: relative;
-}
 
-.footer {
   @media screen and (min-width: 768px) {
     display: flex;
     flex-direction: column;
